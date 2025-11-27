@@ -64,7 +64,7 @@ Happy printing!
 
 * * *
 
-# Preview
+# Previews
 
 ![](assets/preview.png)
 
