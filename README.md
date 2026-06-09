@@ -1,5 +1,4 @@
 # Spelunky 2 LISE
-3D printable game character from Spelunky 2
 
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/506964-spelunky-2-lise)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:5309271)
