@@ -3,15 +3,13 @@
 - Download from Printables here: [`Download Link`](https://www.printables.com/model/1553133-spelunky-2-lise-keychain)
 - Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/thing:7269431)
 
-## Summary
-
-Mini LISE from Spelunky 2!
-
 * * *
 
 # Summary
 
-Mini LISE from Spelunky 2! This model is a keychain version of my [Spelunky 2 LISE]() figure.
+### Mini LISE from Spelunky 2!
+
+This model is a keychain version of my [Spelunky 2 LISE]() figure.
 
 # Print Settings
 
