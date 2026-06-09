@@ -11,8 +11,8 @@
 
 This figure is Funko POP! sized and features interchangeable faces!
 
-- **Updates**
-	- **11/26/2025:** Updated model for printability.
+- **Change History:**
+	- **11/26/2025:** Updated model for printability
 
 # Print Settings
 
